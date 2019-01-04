@@ -44,4 +44,4 @@
    
    https://www.arduino.cc/en/Tutorial/CapacitanceMeter
 
-   5. Mode selection is an original code.
+   5. Mode selection is an original circuit and code.
