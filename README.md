@@ -7,9 +7,11 @@ Arduino UNO R3-based LC-meter
    
    alexander.popov9@mail.ru
   
-  Licensed under GPL v3.
+  Sketch licensed under GPL v3.
+  Schematics licensed under Creative Commons Attribution Share-Alike license.
 
-   The schematics and the sketch and is  a compilation from various free sources one can find on the Internet along with original     circuit and code.
+   The schematics and the sketch is  a compilation from various free sources one can find on the Internet along with original     circuit and code.
+   
    Thanks to all original authors and  contributors.
    
    This sketch was tested with Arduino UNO R3.
