@@ -38,6 +38,7 @@ Arduino UNO R3-based LC-meter
    Based on:
    
    https://0jihad0.livejournal.com/2081.html
+   
    https://www.radiolocman.com/shem/schematics.html?di=162628
 
    4. Capacitance meter.
