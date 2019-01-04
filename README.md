@@ -13,6 +13,7 @@
    Thanks to all original authors and  contributors.
    
    The sketch was tested with Arduino UNO R3.
+   
    Besides LC-meter functionality  it can measure IR remote control modulation frequency 
    and frequency of the digital signal compatible with 5V CMOS logic.
 
