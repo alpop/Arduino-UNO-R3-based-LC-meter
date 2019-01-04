@@ -1,6 +1,6 @@
 # Arduino UNO R3-based LC-meter
 
-   Author Alexander Popov, 2018      alexander.popov9@mail.ru
+   Author Alexander Popov, 2018                 alexander.popov9@mail.ru
   
   Sketch licensed under GPL v3.
   
