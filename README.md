@@ -1,8 +1,5 @@
 # Arduino UNO R3-based LC-meter
-Arduino UNO R3-based LC-meter
-   
-   LC-meter powered by Arduino.
-   
+
    Author Alexander Popov, 2018 
    
    alexander.popov9@mail.ru
