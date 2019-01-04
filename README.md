@@ -1,4 +1,4 @@
-# Arduino-UNO-R3-based-LC-meter
+# Arduino UNO R3-based LC-meter
 Arduino UNO R3-based LC-meter
    
    LC-meter powered by Arduino.
