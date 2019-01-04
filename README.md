@@ -15,7 +15,7 @@ Arduino UNO R3-based LC-meter
    
    Thanks to all original authors and  contributors.
    
-   This sketch was tested with Arduino UNO R3.
+   The sketch was tested with Arduino UNO R3.
    Besides LC-meter functionality  it can measure IR remote control frequency 
    and frequency.
 
