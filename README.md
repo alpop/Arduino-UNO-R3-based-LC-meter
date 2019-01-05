@@ -521,7 +521,8 @@ void lcdPrint_inductance() {
    
    2P5T rotary switch SW1 and SW2 are used for switching between measurement modes.
    
-   - MODE | Switches
+   MODE                     |   Switches
+  __________________________|_______________
    IR remote control tester | SW1 position 1
    frequency measurement, internal | SW1 position 2, SW2 closed
    frequency measurement, external | SW1 position 2, SW2 open
