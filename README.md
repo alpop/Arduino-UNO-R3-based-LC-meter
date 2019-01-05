@@ -17,7 +17,7 @@
   
   ### Sketch 
   
-  Licensed under GPL v3.
+  Licensed under GPL V3.
   
   https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/LC_meter.ino
   
@@ -26,7 +26,7 @@
    Author Alexander Popov, 2018 alexander.popov9@mail.ru
    Licensed under GPL v3.
 
-   This sketch is a compilation from various free sources one can find on the Internet along with original code.
+   This sketch is a compilation from various free sources one can find on the Internet and the original code.
    Thanks to all original authors and  contributors.
    
    This sketch was tested with Arduino UNO R3.
@@ -416,7 +416,7 @@ void lcdPrint_inductance() {
   ```
   
 
-   The schematics and the sketch is  a compilation from various free sources one can find on the Internet along with original     circuit and code.
+   The schematics and the sketch is  a compilation from various free sources one can find on the Internet and the original circuit and code.
 
    The sketch was tested with Arduino UNO R3.
    
