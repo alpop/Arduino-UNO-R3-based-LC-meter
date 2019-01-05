@@ -481,7 +481,7 @@ void lcdPrint_inductance() {
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/12.jpg "1.00mH")
    
    
-   Parallel inductors of 1uH and 2uH (1/0.6666... = 1/1 + 1/2):
+   1uH and 2uH inductors connected in parallel (1/0.6666... = 1/1 + 1/2):
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/15.jpg "0.67uH")
    
