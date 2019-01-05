@@ -13,9 +13,7 @@
  
 
    The schematics and the sketch is  a compilation from various free sources one can find on the Internet along with original     circuit and code.
-   
-   Thanks to all original authors and  contributors.
-   
+
    The sketch was tested with Arduino UNO R3.
    
    Besides LC-meter functionality  it can measure IR remote control modulation frequency 
@@ -108,6 +106,9 @@
    https://github.com/johnrickman/LiquidCrystal_I2C
    
    
+   ### Credits
+    
+   Thanks to all authors and  contributors.
    
    
    
