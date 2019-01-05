@@ -497,11 +497,11 @@ void lcdPrint_inductance() {
    
    #### Small mode 
    
-   0pF - 0.47uF
+       0pF - 0.47uF
         
    #### Large mode
    
-   0.47uF - 10000uF and bigger.
+       0.47uF - 10000uF and bigger.
   
    Based on:
    
