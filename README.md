@@ -21,7 +21,7 @@
    Besides LC-meter functionality  it can measure IR remote control modulation frequency 
    and frequency of the digital signal compatible with 5V CMOS logic.
 
-   Functionality:
+   Full functionality: IR remote rontrol tester, frequency measurement, inductance meter, capacitance meter with mode selection. 
 
    ### IR Remote Control Tester.
    
