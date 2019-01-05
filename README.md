@@ -19,7 +19,7 @@
 
    Functionality:
 
-   #### IR Remote Control Tester.
+   ### IR Remote Control Tester.
    
    Based on:
    
@@ -30,7 +30,7 @@
   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/5.jpg "35.7142 kHz")
 
 
-   2. Frequency measurement.
+   ### Frequency measurement.
 
    Based on:
    
@@ -47,7 +47,7 @@
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/7.jpg "0.010 kHz")
    
-   3.  Inductance meter.
+   ###  Inductance meter.
 
    Based on:
    
@@ -65,12 +65,12 @@
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/16.jpg "0.46uH")
    
 
-   4. Capacitance meter.
+   ### Capacitance meter.
 
    Based on:
    
    https://www.arduino.cc/en/Tutorial/CapacitanceMeter
 
-   5. Mode selection.
+   ### Mode selection.
    
    An original circuit and code.
