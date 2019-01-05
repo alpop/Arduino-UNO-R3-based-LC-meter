@@ -31,6 +31,10 @@
    
    http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/
 
+   SAMSUNG DVD-Karaoke IR Remote Control:
+       
+  ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/5.jpg "35.7142 kHz")
+
    3.  Inductance meter.
 
    Based on:
