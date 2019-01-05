@@ -480,7 +480,7 @@ void lcdPrint_inductance() {
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/12.jpg "1.00mH")
    
-   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/12.jpg "0.67uH")
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/15.jpg "0.67uH")
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/16.jpg "0.46uH")
    
