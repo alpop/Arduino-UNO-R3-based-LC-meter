@@ -24,7 +24,7 @@
   ```
   /* LC-meter powered by Arduino.
    Author Alexander Popov, 2018 alexander.popov9@mail.ru
-   Licensed under GPL v3.
+   Licensed under GPL V3.
 
    This sketch is a compilation from various free sources one can find on the Internet and the original code.
    Thanks to all original authors and  contributors.
@@ -545,7 +545,7 @@ void lcdPrint_inductance() {
    
    ### Power
    
-   The LC-meter is powered from  5V DC USB source of Arduino board. Current should not exceed 150 mA. The most current is consumed by the LCD.
+   The LC-meter is powered from  5V DC USB source of Arduino board. Current should not exceed 87 mA. The most current is consumed by the LCD.
    
    ### Calibration
    
