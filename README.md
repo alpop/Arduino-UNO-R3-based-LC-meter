@@ -491,12 +491,22 @@ void lcdPrint_inductance() {
    
    ### Capacitance meter
 
+   Tested with capacitances from 30 pF to 10000uF.
+   There are two measurement modes:
+   
+   #### Small mode 
+   
+        0pF - 0.3uF
+        
+   #### Large mode
+   
+        0.3uF - 10000uF and bigger.
+  
    Based on:
    
    https://www.arduino.cc/en/Tutorial/CapacitanceMeter
    
-   
-      
+         
    Some pictures here:
    
    
@@ -507,15 +517,13 @@ void lcdPrint_inductance() {
 
    ### Mode selection
    
-   An original circuit and code.
+   An original circuit and code. As simple as possible!
    
    ### References
    
    https://0jihad0.livejournal.com/2081.html
  
    http://radiomaster.ru/shemi/uzli/gener.php
-   
-   https://www.arduino.cc/en/Tutorial/CapacitanceMeter
    
    https://www.arduino.cc/en/Tutorial/CapacitanceMeter
    
