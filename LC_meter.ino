@@ -2,12 +2,10 @@
    Author Alexander Popov, 2018 alexander.popov9@mail.ru
    Licensed under GPL v3.
 
-   This sketch is a compilation from various free sources one can find in the Internet along with original code.
+   This sketch is a compilation from various free sources one can find on the Internet along with original code.
    Thanks to all original authors and  contributors.
    
    This sketch was tested with Arduino UNO R3.
-   Besides LC-meter functionality  it can measure IR remote control frequency 
-   and frequency.
 
    Functionality:
 
