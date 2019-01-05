@@ -469,9 +469,9 @@ void lcdPrint_inductance() {
    
    ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e393a8a5b2bc2aab57b5082c84a628d41069ce "Theoretical frequency of Colpitts oscillator")
  
-   The oscillator I used is quite qood in this respect.
+   The oscillator I used proved to be  quite accurate in this respect. It provides all required frequencies almost as accurate as theoretical
    
-  ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e393a8a5b2bc2aab57b5082c84a628d41069ce "frequency")
+  ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/99971532401f7f6241b673c877f346889bce39a7 "Tank frequency")
   
    Some pictures here:
    
