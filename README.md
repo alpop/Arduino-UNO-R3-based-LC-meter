@@ -438,6 +438,7 @@ void lcdPrint_inductance() {
    ### Frequency measurement
    
    Tested in the range from 10Hz to 2MHz with the digital signal compatible with 5V CMOS logic.
+   You can measure both internal frequency of the tank divided by prescaler value of 16 when external inductor is connected and external frequency.
    
    Based on:
    
@@ -524,8 +525,8 @@ void lcdPrint_inductance() {
    Switches | Mode
    ---------|------
    SW1 position 1 | IR remote control tester
-   SW1 position 2, SW2 closed | frequency measurement, internal
-   SW1 position 2, SW2 open | frequency measurement, external
+   SW1 position 2, SW2 closed | internalfrequency measurement
+   SW1 position 2, SW2 open | external frequency measurement
    SW1 position 3 | inductance measurement
    SW1 position 4 | capacitance measurement, large mode 
    SW1 position 5 | capacitance measurement, small mode
