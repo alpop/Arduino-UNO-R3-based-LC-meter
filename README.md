@@ -426,7 +426,7 @@ void lcdPrint_inductance() {
 
    ### IR Remote Control Tester
    
-   Based on:
+   It is a rather toy functionality based on:
    
    https://www.instructables.com/id/Analyze-Any-IR-Protocol-With-Just-You-Arduino-Boar/
    
@@ -436,11 +436,12 @@ void lcdPrint_inductance() {
 
 
    ### Frequency measurement
-
+   
+   Tested in the range from 10Hz to 2MHz with the digital signal compatible with 5V CMOS logic.
+   
    Based on:
    
    http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/
-   
    
    
    Some pictures here:
@@ -453,7 +454,9 @@ void lcdPrint_inductance() {
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/7.jpg "0.010 kHz")
    
    ###  Inductance meter
-
+   
+   Accuracy is ±3% in the  range  0.5uH - 10mH or better. 
+   
    Based on:
    
    https://0jihad0.livejournal.com/2081.html
@@ -461,9 +464,17 @@ void lcdPrint_inductance() {
    https://www.radiolocman.com/shem/schematics.html?di=162628
    
    
-   Colpitts oscillator was not used because it did not prove to be accurate enough in the required range of frequencies of the tank 
+   Colpitts oscillator was not used because it did not prove to be accurate enough in the required range of frequencies of the tank.
+   Some frequncies were  200-300% different from theoretical
+   
+   ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e393a8a5b2bc2aab57b5082c84a628d41069ce "Theoretical frequency of 
+   
+   Colpitts oscillator")
+ 
+   The oscillator I used is quite qood in this respect.
    
   ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e393a8a5b2bc2aab57b5082c84a628d41069ce "frequency")
+  
    Some pictures here:
    
    
