@@ -38,6 +38,10 @@
    https://0jihad0.livejournal.com/2081.html
    
    https://www.radiolocman.com/shem/schematics.html?di=162628
+   
+   
+   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+   
 
    4. Capacitance meter.
 
