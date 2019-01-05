@@ -549,6 +549,10 @@ void lcdPrint_inductance() {
    
    ### Calibration
    
+   Calibration can be  performed programmatically using Arduino IDE.
+   You may want to change the following values.
+   
+   
    ##### Inductance meter calibration
    
    ```
@@ -561,8 +565,9 @@ void lcdPrint_inductance() {
    ```
    double resistorValue1 = 9620.0F;      // ~10k,  for measuring large capacitance
    double resistorValue2 = 87940620.0F;  // ~100M, for measuring small capacitance
-   int cap_add = 70;                   // additional circuit capacitacne in pF
+   int cap_add = 70;                    // additional circuit capacitacne in pF
    ```
+   
    ### References
    
    https://0jihad0.livejournal.com/2081.html
