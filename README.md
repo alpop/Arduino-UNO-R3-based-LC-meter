@@ -473,18 +473,22 @@ void lcdPrint_inductance() {
    
   ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/99971532401f7f6241b673c877f346889bce39a7 "Tank frequency")
   
-   Some pictures here:
    
+   Various "calibrated" inductors:
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/1.jpg "5.20mH")
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/12.jpg "1.00mH")
    
+   
+   Parallel inductors of 1uH and 2uH (1/0.6666... = 1/1 + 1/2):
+   
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/15.jpg "0.67uH")
+   
+   Just several rounds of wire:
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/16.jpg "0.46uH")
    
-
    ### Capacitance meter
 
    Based on:
