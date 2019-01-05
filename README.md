@@ -525,7 +525,7 @@ void lcdPrint_inductance() {
    Switches | Mode
    ---------|------
    SW1 position 1 | IR remote control tester
-   SW1 position 2, SW2 closed | internalfrequency measurement
+   SW1 position 2, SW2 closed | internal frequency measurement
    SW1 position 2, SW2 open | external frequency measurement
    SW1 position 3 | inductance measurement
    SW1 position 4 | capacitance measurement, large mode 
