@@ -42,6 +42,9 @@
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/1.jpg "5.20mH")
    
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/16.jpg "0.46uH")
+   
 
    4. Capacitance meter.
 
