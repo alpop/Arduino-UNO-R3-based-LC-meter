@@ -88,3 +88,9 @@
    ### Mode selection.
    
    An original circuit and code.
+   
+   ## References.
+   
+   https://0jihad0.livejournal.com/2081.html
+   https://0jihad0.livejournal.com/2081.html
+   
