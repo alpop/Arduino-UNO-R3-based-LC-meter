@@ -24,17 +24,29 @@
    Based on:
    
    https://www.instructables.com/id/Analyze-Any-IR-Protocol-With-Just-You-Arduino-Boar/
+   
+   SAMSUNG DVD-Karaoke IR Remote Control:
+       
+  ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/5.jpg "35.7142 kHz")
+
 
    2. Frequency measurement.
 
    Based on:
    
    http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/
-
-   SAMSUNG DVD-Karaoke IR Remote Control:
-       
-  ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/5.jpg "35.7142 kHz")
-
+   
+   
+   
+   Some pictures here:
+   
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/3.jpg "0.440 kHz")
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/6.jpg "2000 kHz")
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/7.jpg "0.010 kHz")
+   
    3.  Inductance meter.
 
    Based on:
