@@ -8,15 +8,6 @@
     
  Schematics licensed under Creative Commons Attribution Share-Alike license.
   
-<dl>
-
-<object data="https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/LC_meter.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/LC_meter.pdf">
-        
-    </embed>
-</object>
-
-</dl  
 
 
   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/Screenshot%20from%202019-01-05%2003-31-01.png "Schematics")
