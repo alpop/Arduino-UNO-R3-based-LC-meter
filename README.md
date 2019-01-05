@@ -461,6 +461,9 @@ void lcdPrint_inductance() {
    https://www.radiolocman.com/shem/schematics.html?di=162628
    
    
+   Colpitts oscillator was not used because it did not prove to be accurate enough in the required range of frequencies of the tank 
+   
+  ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e393a8a5b2bc2aab57b5082c84a628d41069ce "frequency")
    Some pictures here:
    
    
