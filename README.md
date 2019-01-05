@@ -40,7 +40,7 @@
    https://www.radiolocman.com/shem/schematics.html?di=162628
    
    
-   Some pictires here:
+   Some pictures here:
    
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/1.jpg "5.20mH")
