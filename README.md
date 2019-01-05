@@ -19,7 +19,7 @@
 
    Functionality:
 
-   ## IR Remote Control Tester.
+   #### IR Remote Control Tester.
    
    Based on:
    
