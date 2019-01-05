@@ -19,6 +19,8 @@
   
   Licensed under GPL v3.
   
+  https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/LC_meter.ino
+  
   ```
   /* LC-meter powered by Arduino.
    Author Alexander Popov, 2018 alexander.popov9@mail.ru
