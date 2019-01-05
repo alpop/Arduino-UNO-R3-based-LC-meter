@@ -416,8 +416,7 @@ void lcdPrint_inductance() {
 
    The sketch was tested with Arduino UNO R3.
    
-   Besides LC-meter functionality  it can measure IR remote control modulation frequency 
-   and frequency of the digital signal compatible with 5V CMOS logic.
+   The LC-meter can also measure IR remote control modulation frequency and frequency of the digital signal compatible with 5V CMOS logic.
 
    Full functionality: IR remote rontrol tester, frequency measurement, inductance meter, capacitance meter with mode selection. 
 
