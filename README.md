@@ -111,6 +111,6 @@
    Thanks to all authors and  contributors.
    
    
-   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/13.jpg "LC_meter")
  
    
