@@ -9,6 +9,8 @@
   Schematics licensed under Creative Commons Attribution Share-Alike license.
   
   
+  ![alt text](blob:null/ab4b66e5-e7e0-4ad1-84ed-c0536194ac67 "Schematics")
+  
   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/Screenshot%20from%202019-01-05%2003-31-01.png "Schematics")
  
   
