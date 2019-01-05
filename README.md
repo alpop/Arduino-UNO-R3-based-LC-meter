@@ -467,9 +467,7 @@ void lcdPrint_inductance() {
    Colpitts oscillator was not used because it did not prove to be accurate enough in the required range of frequencies of the tank.
    Some frequncies were  200-300% different from theoretical
    
-   ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e393a8a5b2bc2aab57b5082c84a628d41069ce "Theoretical frequency of 
-   
-   Colpitts oscillator")
+   ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e393a8a5b2bc2aab57b5082c84a628d41069ce "Theoretical frequency of Colpitts oscillator")
  
    The oscillator I used is quite qood in this respect.
    
