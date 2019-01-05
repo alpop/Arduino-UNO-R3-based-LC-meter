@@ -70,6 +70,16 @@
    Based on:
    
    https://www.arduino.cc/en/Tutorial/CapacitanceMeter
+   
+   
+      
+   Some pictures here:
+   
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/4.jpg "0.10 uF")
+   
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/10.jpg "4700 uF")
 
    ### Mode selection.
    
