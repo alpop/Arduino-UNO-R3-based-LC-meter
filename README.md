@@ -23,7 +23,7 @@
 
    Full functionality: IR remote rontrol tester, frequency measurement, inductance meter, capacitance meter with mode selection. 
 
-   ### IR Remote Control Tester.
+   ### IR Remote Control Tester
    
    Based on:
    
@@ -34,7 +34,7 @@
   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/5.jpg "35.7142 kHz")
 
 
-   ### Frequency measurement.
+   ### Frequency measurement
 
    Based on:
    
@@ -51,7 +51,7 @@
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/7.jpg "0.010 kHz")
    
-   ###  Inductance meter.
+   ###  Inductance meter
 
    Based on:
    
@@ -69,7 +69,7 @@
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/16.jpg "0.46uH")
    
 
-   ### Capacitance meter.
+   ### Capacitance meter
 
    Based on:
    
@@ -85,12 +85,31 @@
    
    ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/10.jpg "4700 uF")
 
-   ### Mode selection.
+   ### Mode selection
    
    An original circuit and code.
    
-   ## References.
+   ### References
    
    https://0jihad0.livejournal.com/2081.html
-   https://0jihad0.livejournal.com/2081.html
+ 
+   http://radiomaster.ru/shemi/uzli/gener.php
+   
+   https://www.arduino.cc/en/Tutorial/CapacitanceMeter
+   
+   https://www.arduino.cc/en/Tutorial/CapacitanceMeter
+   
+   http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/
+   
+   https://www.rugged-circuits.com/10-ways-to-destroy-an-arduino
+   
+   https://www.instructables.com/id/Analyze-Any-IR-Protocol-With-Just-You-Arduino-Boar/
+   
+   https://github.com/johnrickman/LiquidCrystal_I2C
+   
+   
+   
+   
+   
+ 
    
