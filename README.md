@@ -10,6 +10,8 @@
  
  Licensed under Creative Commons Attribution Share-Alike license.
   
+ https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/LC_meter.pdf
+  
   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/Screenshot%20from%202019-01-05%2003-31-01.png "Schematics")
  
   
