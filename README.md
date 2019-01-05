@@ -495,27 +495,39 @@ void lcdPrint_inductance() {
    Tested with capacitances from 30 pF to 10000uF.
    There are two measurement modes:
    
-   #### Small mode 
-   
-       0pF - 0.47uF
+
         
    #### Large mode
    
        0.47uF - 10000uF and bigger.
+       
+   #### Small mode 
+   
+       0pF - 0.47uF
   
    Based on:
    
    https://www.arduino.cc/en/Tutorial/CapacitanceMeter
    
-         
+   
+   In Large Mode, the capacitor discharges through 10k resistor. In small mode, the capacitor discharges through 87M resistor.
+   The measurement may take from several seconds to several minutes to complete.
+     
    Some pictures here:
    
-   
-   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/4.jpg "0.10 uF")
-   
-   
-   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/10.jpg "4700 uF")
 
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/10.jpg "4700 uF")
+    
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/4.jpg "0.10 uF")
+    
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/23.jpg "200 pF")
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/24.jpg "22 pF")
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/25.jpg "10 pF")
+   
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/26.jpg "0 pF")  
+   
    ### Mode selection
    
    An original circuit and code. As simple as possible!
@@ -531,6 +543,26 @@ void lcdPrint_inductance() {
    SW1 position 4 | capacitance measurement, large mode 
    SW1 position 5 | capacitance measurement, small mode
    
+   ### Power
+   
+   The LC-meter is powered from  5V DC USB source of Arduino board. Current does not exceed 150 mA. The most current is consumed by the LCD. 
+   
+   ### Calibration
+   
+   ##### Inductance meter calibration
+   
+   ```
+   double cap = 1475e-12;                 // ~1500 pF, for measuring  inductance           
+   float correction_inductance = 0.67;    // correction inductance, uH
+   ```   
+   
+   ##### Capacitance meter calibration
+   
+   ```
+   double resistorValue1 = 9620.0F;      // ~10k,  for measuring large capacitance
+   double resistorValue2 = 87940620.0F;  // ~100M, for measuring small capacitance
+   int cap_add = 70;                   // additional circuit capacitacne in pF
+   ```
    ### References
    
    https://0jihad0.livejournal.com/2081.html
