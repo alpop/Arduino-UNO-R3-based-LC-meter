@@ -545,13 +545,14 @@ void lcdPrint_inductance() {
    
    ### Power
    
-   The LC-meter is powered from  5V DC USB source of Arduino board. Current does not exceed 150 mA. The most current is consumed by the LCD. 
+   The LC-meter is powered from  5V DC USB source of Arduino board. Current should not exceed 150 mA. The most current is consumed by the LCD.
    
    ### Calibration
    
    Calibration can be  performed programmatically using Arduino IDE.
-   You may want to change the following values.
+   You may want to change the following values in the Arduino sketch, compile and upload the modified sketch to the Arduino board.
    
+   https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/LC_meter.ino
    
    ##### Inductance meter calibration
    
