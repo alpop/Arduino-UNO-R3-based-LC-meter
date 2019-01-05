@@ -40,7 +40,7 @@
    https://www.radiolocman.com/shem/schematics.html?di=162628
    
    
-   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+   ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/1.jpg "5.20mH")
    
 
    4. Capacitance meter.
