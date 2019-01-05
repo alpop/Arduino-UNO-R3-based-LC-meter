@@ -7,6 +7,10 @@
   Sketch licensed under GPL v3.
   
   Schematics licensed under Creative Commons Attribution Share-Alike license.
+  
+  
+  ![alt text](https://github.com/alpop/Arduino-UNO-R3-based-LC-meter/blob/master/pictures/Screenshot%20from%202019-01-05%2003-31-01.png "Schematics")
+ 
 
    The schematics and the sketch is  a compilation from various free sources one can find on the Internet along with original     circuit and code.
    
